@@ -1,0 +1,8 @@
+langchain_google_community
+langchain
+langgraph
+langgraph.prebuilt
+google-auth-oauthlib
+langchain_cohere
+streamlit==1.30.0
+
