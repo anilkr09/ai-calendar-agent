@@ -28,6 +28,26 @@ ai-calendar-agent/
   - ❌ Delete events
 - **Modern Web Interface**: Built with Streamlit for a responsive, user-friendly experience
 
+## Demo 
+
+<img width="1371" alt="image" src="https://github.com/user-attachments/assets/7bf8d352-29f8-48f1-9ee1-3cb317a20af6" />
+
+
+
+
+
+<img width="1082" alt="image" src="https://github.com/user-attachments/assets/fa24339e-62bc-472a-81ef-5233b1cfc786" />
+
+
+
+<img width="1371" alt="image" src="https://github.com/user-attachments/assets/2be902e5-ac9f-4b80-b6f0-a79ec8de5786" />
+
+
+<img width="1256" alt="image" src="https://github.com/user-attachments/assets/794ba546-dd32-4378-9a47-247270c8b5c6" />
+
+
+
+
 ## Prerequisites
 
 - Python 3.8+
